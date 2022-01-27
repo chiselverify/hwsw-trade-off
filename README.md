@@ -6,7 +6,8 @@ This project will explore the trade-offs between executing a program in hardware
 and executing it in software relative to energy consumption.
 
 This project is funded by the [Digital Research Centre Denmark (DIREC)](https://direc.dk/)
-as project number P23.
+as project number
+[P23](https://direc.dk/hardware-software-trade-off-for-the-reduction-of-energy-consumption/).
 Furthermore, is it embedded in the COST Action no. CA19135
 [Connecting Education and Research Communities for an Innovative
 Resource Aware Society (CERCIRAS)](https://www.cerciras.org/).
