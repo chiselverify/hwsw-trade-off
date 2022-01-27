@@ -4,7 +4,7 @@
 Besides our use cases of sorting and path-finding, we could add some more:
 
  * Use Bosse's CNN coprocessor
- * Game of Life is very HW freindly ;-)
+ * Game of Life is very HW friendly ;-)
 
 We can compare between HW in the FPGA and Patmos in the FPGA. However,
 this may be unfair, as FPGAs are not efficient for processors.
